@@ -171,9 +171,7 @@ class HomeScreen extends StatelessWidget {
                               shape: BoxShape.circle,
                               color: kInfectedColor.withOpacity(.26),
                             ),
-                            child: Container(
-
-                            ),
+                            child: Container(),
                           )
                         ],
                       )
